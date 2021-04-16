@@ -282,7 +282,7 @@
   "users": [
     {
       "username": "172456543",
-      "password": "123456789",
+      "password": "password",
       "id": 1,
       "logged": false
     }
